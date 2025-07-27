@@ -1,4 +1,5 @@
 📌 YouTube Bookmarker Chrome Extension
+
 A lightweight Chrome extension that allows users to bookmark specific timestamps in YouTube videos for quick reference and easy access later.
 
 🚀 Features
